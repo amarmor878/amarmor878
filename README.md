@@ -12,9 +12,9 @@ const amarmor878 = {
 ```
 <h3>About me 👨‍💻:<h3>
 
-##### Hi, my name is Alberto Martínez Moreno. I'm a 🎨 graphic designer currently studying 💻 Web Development. I love learning about new 🖥️ technologies, 📚 reading and 🎧 listening to podcasts, as well as ✈️ traveling and exploring new places. I currently live in Arjonilla (Jaén), although I was born in Barcelona and have a great passion for experiencing new 🌍 cultures.
+#### Hi, my name is Alberto Martínez Moreno. I'm a 🎨 graphic designer currently studying 💻 Web Development. I love learning about new 🖥️ technologies, 📚 reading and 🎧 listening to podcasts, as well as ✈️ traveling and exploring new places. I currently live in Arjonilla (Jaén), although I was born in Barcelona and have a great passion for experiencing new 🌍 cultures.
 
-My long-term goal is to become a 💻 web developer and not only that, but also to share my knowledge with others. I would love to 👨‍🏫 teach and train new people in the world of programming and help them grow. I've always had a friendly and helpful personality, and I like to help others in any way I can. I'm excited about what the future holds for me in the field of web development and I hope to make a difference in the lives of others. 😄
+#### My long-term goal is to become a 💻 web developer and not only that, but also to share my knowledge with others. I would love to 👨‍🏫 teach and train new people in the world of programming and help them grow. I've always had a friendly and helpful personality, and I like to help others in any way I can. I'm excited about what the future holds for me in the field of web development and I hope to make a difference in the lives of others. 😄
 
 <h3>You can find me 🌐:<h3>
 
