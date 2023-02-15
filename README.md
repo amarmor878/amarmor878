@@ -1,4 +1,4 @@
-### Hola, soy Amarmor 👋 🖥️🔨🔧
+### Hi, I'm Amarmor 👋 🖥️🔨🔧
 
 ![](https://user-images.githubusercontent.com/100948149/218884937-4334fd66-7df1-4103-9519-854fb0232523.png)
 
@@ -10,6 +10,12 @@ const amarmor878 = {
   architecture: ["web-designer", "graphic-designer"],
 }
 ```
+<h3>About me 👨‍💻:<h3>
+
+##### Hi, my name is Alberto Martínez Moreno. I'm a 🎨 graphic designer currently studying 💻 Web Development. I love learning about new 🖥️ technologies, 📚 reading and 🎧 listening to podcasts, as well as ✈️ traveling and exploring new places. I currently live in Arjonilla (Jaén), although I was born in Barcelona and have a great passion for experiencing new 🌍 cultures.
+
+My long-term goal is to become a 💻 web developer and not only that, but also to share my knowledge with others. I would love to 👨‍🏫 teach and train new people in the world of programming and help them grow. I've always had a friendly and helpful personality, and I like to help others in any way I can. I'm excited about what the future holds for me in the field of web development and I hope to make a difference in the lives of others. 😄
+
 <h3>You can find me 🌐:<h3>
 
 <a href="https://twitter.com/BertMarti6">![gorjeo](https://user-images.githubusercontent.com/100948149/218886606-2197f6c4-3cc3-4ba2-81fd-8a9b99a1baf2.png)</a>
@@ -18,8 +24,8 @@ const amarmor878 = {
 
 [![amarmor878 GitHub stats](https://github-readme-stats.vercel.app/api?username=amarmor878&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="left">Languages and Tools:</h4>
-<h5 align="left">Front-end</h5>
+<h3 align="left">Languages and Tools 🛠️:</h3>
+<h5 align="left">🖥️ Front-end 🖥️</h5>
 <p align="left" id="front-end">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img 
@@ -73,7 +79,7 @@ const amarmor878 = {
     />
   </a>
 </p>
-<h5 align="left">Back-end</h5>
+<h5 align="left">🔙 Back-end 🔙</h5>
 <p align="left" id="back-end">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
@@ -116,7 +122,7 @@ const amarmor878 = {
     />
   </a>
 </p>
-<h5 align="left">Graphic Design</h5>
+<h5 align="left">🖌️ Graphic Design 🖌️</h5>
 <p align="left" id="graphic-design">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
@@ -145,7 +151,7 @@ const amarmor878 = {
     />
   </a>
 </p>
-<h5 align="left">Others</h5>
+<h5 align="left">🔧 Others 🔧</h5>
 <p align="left" id="others">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
