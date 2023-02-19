@@ -7,7 +7,7 @@ const amarmor878 = {
   pronouns: "he" | "him",
   code: [JavaScript, Java, Html, Css, Php, MySQL],
   tools: [React, Symfony, Laravel, Bootstrap],
-  architecture: ["web-designer", "graphic-designer", "web-developer"],
+  architecture: ["web-developer", "web-designer", "graphic-designer"],
 }
 ```
 <h3>About me 👨‍💻:<h3>
